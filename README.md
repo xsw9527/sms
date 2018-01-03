@@ -1,5 +1,5 @@
 # sms
-sheepbao media server and super media server whith golang.
+xstrive media server and super media server whith golang.
 
 ## Features
 * modularization, expansibility
@@ -11,7 +11,7 @@ sheepbao media server and super media server whith golang.
 ## Build
 
 ```
-git clone https://github.com/sheepbao/sms.git  
+git clone https://github.com/xsw9527/sms.git
 cd sms  
 ./build.sh  
 ```
